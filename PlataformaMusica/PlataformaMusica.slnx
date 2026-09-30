@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PlataformaMusica/PlataformaMusica.csproj" />
+  <Project Path="Models/Models.csproj" />
+</Solution>
