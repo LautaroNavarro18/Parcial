@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "24fIBzVfVbY=",
+  "dgSpecHash": "P0np47huEsA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lautaro Navarro\\Desktop\\PlataformaMusica\\Models\\Models.csproj",
+  "projectFilePath": "C:\\Users\\Lautaro Navarro\\Desktop\\Parcial\\PlataformaMusica\\Models\\Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lautaro Navarro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lautaro Navarro\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
